@@ -2,17 +2,17 @@
 
 ### Comments
 
-* Added html semantic tags
+* Added HTML semantic tags
 
-* Migrated Hero Image source from css to html
+* Migrated Hero Image source from CSS to HTML
 
-* Added comments to html and css
+* Added comments to HTML and CSS
 
-* Consolidated css selectors
+* Consolidated CSS selectors
 
 * Consolidated font-family property
 
-* Structures css to follow semantic structure of html
+* Structured CSS to follow semantic structure of HTML
 
 ## Acceptance Criteria
 
